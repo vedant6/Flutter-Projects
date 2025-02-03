@@ -1,5 +1,4 @@
 Overview of the Cipher Voice Assistant App
-Synopsis:
 
 The Cipher app is a powerful voice assistant powered by ChatGPT and DALL-E, designed to understand and respond to user voice commands. It offers responses in both text and image formats, providing an engaging and interactive user experience.
 
